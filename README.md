@@ -1,2 +1,5 @@
-# DmytroGrendach.github.io
-My "business card" web site
+## My personal [business card](https://grendach.github.io/) web site
+
+
+#### Licanse:
+MIT © Dinesh Pandiyan
