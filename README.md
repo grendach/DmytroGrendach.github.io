@@ -1,5 +1,5 @@
 ## My personal [business card](https://grendach.github.io/) web site
 
 
-#### Licanse:
+#### License:
 MIT © Dinesh Pandiyan
